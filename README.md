@@ -1,3 +1,3 @@
 # mooncalc
 
-Moon Phase Calculator Flutter project
+Moon phase calculator - Flutter project
